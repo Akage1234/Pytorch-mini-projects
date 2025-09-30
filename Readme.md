@@ -7,6 +7,12 @@ This repository contains Google Colab notebooks of mini projects exploring deep 
 * Mini projects implemented in PyTorch 🧑‍💻
 * Hands-on experiments with various deep learning architectures 🧠
 
+## Index
+
+1. [**DCGAN on FashionMNIST**](./ComputerVision/DC_GAN/DCGANs_using_Fashion_mnist.ipynb) – Generating clothing images using a Deep Convolutional GAN.  
+2. [**Diffusion Model (U-Net)**](./ComputerVision/Diffusion%20Model/Diffusion_on_FashionMNIST.ipynb) – Image denoising and generation with diffusion process.  
+3. [**Transfer Learning (ResNet18)**](./ComputerVision/TransferLearning_ImageClassification/CatsVsDogs_ImageClassification.ipynb) – Fine-tuning a pre-trained model to classify Dogs vs Cats.  
+
 ## Getting Started
 
 You can open any notebook directly in **Google Colab**:
