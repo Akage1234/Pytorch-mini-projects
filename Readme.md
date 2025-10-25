@@ -18,7 +18,7 @@ This repository contains Google Colab notebooks of mini projects exploring deep 
 ### 🧠 NLP
 5. [**IMDB Sentiment Analysis (LSTM/GRU)**](./NLP/LSTM_GRU/IMDB_Sentiment_analysis_Using_LSTM_GRU.ipynb) – Sentiment classification on IMDB reviews dataset.
 6. [**Building GPT from Scratch**](./NLP/Transformer/GPT/Building%20GPT%20from%20scratch.pdf) – Implementation notes for a GPT-like Transformer model.  
-7. [**GPT Implementation (from scratch)**](./NLP/Transformer/gpt.py) – Minimal GPT model built using PyTorch.  
+7. [**GPT Implementation (from scratch)**](./NLP/Transformer/GPT/gpt.py) – Minimal GPT model built using PyTorch.  
 8. [**Fine-tuning BERT for MLM**](./NLP/Transformer/Finetuning_bert_for_MLM.ipynb) – Masked Language Modeling with BERT.  
 9. [**Fine-tuning GPT for Text Generation**](./NLP/Transformer/Finetuning_GPT_for_Text_generation.ipynb) – Text generation using fine-tuned GPT model.
 
